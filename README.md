@@ -15,5 +15,5 @@ What I have learned :
 
 Where you can find me :
 
-![Twitter](https://img.shields.io/badge/https://twitter.com/FerretMartin1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter](https://img.shields.io/badge/<https://twitter.com/FerretMartin1>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
