@@ -1,4 +1,6 @@
-![Cover](https://github.com/MartinFerret/MartinFerret/blob/main/avatar.png)
+<p align="center">
+  ![Cover](https://github.com/MartinFerret/MartinFerret/blob/main/avatar.png)
+</p>
 
 Hello, I'm Martin from Lion-sur-Mer, France. I'm a brand new web developper.
 
