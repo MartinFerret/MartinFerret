@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="![Cover](https://github.com/MartinFerret/MartinFerret/blob/main/avatar.png)">
-</p>
+![Cover](https://github.com/MartinFerret/MartinFerret/blob/main/avatar.png)
 
-Hello, I'm Martin from Lion-sur-Mer, France. I'm a brand new web developper.
+Hello, I'm Martin from Lion-sur-Mer, France 🇫🇷. I'm a brand new web developper.
 
 Whats I have learned :
 
