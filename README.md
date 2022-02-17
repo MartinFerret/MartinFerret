@@ -1,6 +1,6 @@
 ![Cover](https://github.com/MartinFerret/MartinFerret/blob/main/avatar.png) 
 
-Hello y'all, I'm Martin from France, and I'm a web developer. 
+Hello everyone, I'm Martin from France, and I'm a web developer. I'm also a football fan, but don't get it wrong, I code with my fingers and play with my feet, not the reverse :)
 
 What I have learned :
 
