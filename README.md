@@ -1,6 +1,6 @@
 ![Cover](https://github.com/MartinFerret/MartinFerret/blob/main/avatar.png)
 
-Hello, I'm Martin from Lion-sur-Mer, France :flag_fr:. I'm a brand new web developper.
+Hello, I'm Martin from Lion-sur-Mer, France :flag_fr: . I'm a brand new web developper.
 
 Whats I have learned :
 
