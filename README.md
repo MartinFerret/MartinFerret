@@ -1,4 +1,4 @@
-![Cover](https://github.com/MartinFerret/MartinFerret/blob/main/avatar.png)
+![Cover](https://github.com/MartinFerret/MartinFerret/blob/main/avatar.png) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/MartinFerret/github-readme-stats)
 
 Hello, I'm Martin from Lion-sur-Mer, France :flag_fr: . I'm a brand new web developper.
 
