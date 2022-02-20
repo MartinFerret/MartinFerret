@@ -1,9 +1,9 @@
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats)
 
 <a href="https://github.com/martinferret/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinferret](https://github.com/martinferret/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/compact">
+<a href="https://github.com/martinferret/compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinferret&layout=compact)](https://github.com/martinferret/github-readme-stats" />
 </a>
 
