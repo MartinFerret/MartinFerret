@@ -1,6 +1,4 @@
-![Cover](https://github.com/MartinFerret/MartinFerret/blob/main/avatar.png)
-
-
+[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats)
 Hello everyone, I'm Martin from France, and I'm a web developer. I'm also a football fan, but don't get it wrong, I code with my fingers and play with my feet, not the reverse :)
 
 All techs I use :
