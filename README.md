@@ -9,6 +9,7 @@ I'm a french web developper, specialized in Symfony but I like wireframing, UI, 
 * 💻 HTML/CSS/JS
 * 🔙 PHP (Symfony)
 * ⚛️ React
+* 🤖 Git
 
 
 Where you can find me :
