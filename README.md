@@ -14,6 +14,6 @@ I'm a french web developper, specialized in Symfony. However, I like wireframing
 
 ### Get in touch
 
-Github : https://github.com/MartinFerret
-LinkedIn : https://www.linkedin.com/in/martin-ferret/
-Twitter : https://twitter.com/FerretMartin1
+- Github : https://github.com/MartinFerret
+- LinkedIn : https://www.linkedin.com/in/martin-ferret/
+- Twitter : https://twitter.com/FerretMartin1
