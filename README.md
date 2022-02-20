@@ -1,5 +1,8 @@
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats)
-Hello everyone, I'm Martin from France, and I'm a web developer. I'm also a football fan, but don't get it wrong, I code with my fingers and play with my feet, not the reverse :)
+
+# Martin Ferret
+
+I'm a french web developper, specialized in Symfony but I like wireframing, UI, UX & Design also. My github's profile is in progress :construction_worker:
 
 All techs I use :
 
