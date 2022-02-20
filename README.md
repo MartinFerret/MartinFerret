@@ -1,11 +1,9 @@
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats)
 
 <a href="https://github.com/martinferret/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martinferret&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats" />
 </a>
-<a href="https://github.com/martinferret/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martinferret&repo=convoychat" />
-</a>
+
 
 ## Martin Ferret
 
