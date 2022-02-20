@@ -2,7 +2,7 @@
 
 ## Martin Ferret
 
-I'm a french web developper, specialized in Symfony but I like wireframing, UI, UX & Design also. My Github's profile is in progress :construction_worker:
+I'm a french web developper, specialized in Symfony. However, I like wireframing, UI, UX & Design also. My Github's profile is in progress :construction_worker:
 
 ### Tech I use
 
