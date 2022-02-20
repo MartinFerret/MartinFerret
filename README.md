@@ -1,10 +1,5 @@
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats)
 
-<a href="https://github.com/martinferret/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats" />
-</a>
-
-
 ## Martin Ferret
 
 I'm a french web developper, specialized in Symfony but I like wireframing, UI, UX & Design also. My Github's profile is in progress :construction_worker:
