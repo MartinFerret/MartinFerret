@@ -2,10 +2,10 @@
 
 ### 🤙 Martin Ferret
 
-⚓ I'm from France
-🧙 I'm working on an awesome secret project 🤫
-:mal
-⚡ Fun Fact : I'm a football lover 😍
+* ⚓ I'm from France
+* 🧙 I'm working on an awesome secret project 🤫
+* 🖋️ Feel free to ask me about things I master
+* ⚡ Fun Fact : I'm a football lover 😍
 
 
 ### ⚒️ Tech I use
