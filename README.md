@@ -1,4 +1,4 @@
-<p class="align-center">[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats)</p>
+[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats)
 
 
 ### 🤙 Martin Ferret
