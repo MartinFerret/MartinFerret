@@ -1,5 +1,5 @@
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?martinferret=martinferret&repo=github-Symfony-E-commerce)](https://github.com/martinferret/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?martinferret=martinferret&repo=Symfony-E-commerce)](https://github.com/martinferret/Symfony-E-commerce)
 
 
 ### 🤙 Martin Ferret
