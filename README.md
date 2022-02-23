@@ -11,8 +11,6 @@ I'm a french web developper, specialized in Symfony. However, I like wireframing
 * ⚛️ React
 * 🤖 Git
 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
 ### Get in touch
 
 - Github : https://github.com/MartinFerret
