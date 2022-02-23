@@ -1,10 +1,14 @@
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats)
 
-## 🤙 Martin Ferret
+### 🤙 Martin Ferret
 
-I'm a french web developper, specialized in Symfony. However, I like wireframing, UI, UX & Design also. My Github's profile is in progress :construction_worker:
+⚓ I'm from France
+🧙 I'm working on an awesome secret project 🤫
+:mal
+⚡ Fun Fact : I'm a football lover 😍
 
-###  🧰 Tech I use
+
+### ⚒️ Tech I use
 
 <p class="align-left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
