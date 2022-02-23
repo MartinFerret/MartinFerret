@@ -1,5 +1,5 @@
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats)
-<img src="https://storyset.com/illustration/hand-coding/bro"/>
+<p class="align-center">[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats)</p>
+
 
 ### 🤙 Martin Ferret
 
