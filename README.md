@@ -1,6 +1,3 @@
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats)
-
-
 
 ### 🤙 Martin Ferret
 
@@ -13,7 +10,7 @@
 
 ### 🔑 Tech I use
 
-<p class="align-left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<p class="align-left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26" height="26"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="26" height="26"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26" height="26"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26"/>
@@ -31,7 +28,11 @@
 
 ---
 
-### 💬 Get in touch
+### My noble stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats">
+
+### 💬 Get in touch [![Martin's GitHub stats]
 
 - Github : https://github.com/MartinFerret
 - LinkedIn : https://www.linkedin.com/in/martin-ferret/
