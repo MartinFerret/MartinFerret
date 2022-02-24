@@ -30,7 +30,7 @@
 
 ### My noble stats
 
-<details open>
+<details close>
 <summary>Discover</summary>
 <br>
  [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats)
