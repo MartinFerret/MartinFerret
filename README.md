@@ -1,9 +1,11 @@
 
 ### 🤙 Martin Ferret
 
+
 * ⚓ I'm from France
 * 🧙 I'm working on an awesome secret project 🤫
-* 🖋️ Feel free to ask me about things I master
+* 💻 I'd like to contribuate to open source projects soon
+* 🖋️ Feel free to ask me about things related to what I master ⬇️
 * ⚡ Fun Fact : I'm a football lover 😍
 
 ---
