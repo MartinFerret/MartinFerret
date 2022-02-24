@@ -1,6 +1,7 @@
 
-###<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there, I'm Martin Ferret and :
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+#### I'm Martin Ferret, here are more about me :
 
 * ⚓ I'm from France
 * 🧙 I'm working on an awesome secret project 🤫
