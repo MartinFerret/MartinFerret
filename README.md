@@ -30,9 +30,15 @@
 
 ### My noble stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats">
+<details open>
+<summary>Discover</summary>
+<br>
+ [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret)](https://github.com/martinferret/github-readme-stats)
+</details>
 
-### 💬 Get in touch [![Martin's GitHub stats]
+---
+
+### 💬 Get in touch
 
 - Github : https://github.com/MartinFerret
 - LinkedIn : https://www.linkedin.com/in/martin-ferret/
