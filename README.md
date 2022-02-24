@@ -21,10 +21,12 @@
 
 ---
 
-### ⚒️ Tech I'm working on
-
+<details open>
+<summary>### ⚒️ Tech I'm working on</summary>
+<br>
 <p class="align-left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26" height="26"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26" height="26"/> </p>
+</details>
 
 ---
 
