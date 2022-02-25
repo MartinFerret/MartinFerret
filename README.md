@@ -37,8 +37,13 @@
 
 ### 💬 Get in touch
 
+<details close>
+<summary>💬 Get in touch</summary>
+<br>
 - Github : https://github.com/MartinFerret
 - LinkedIn : https://www.linkedin.com/in/martin-ferret/
 - Twitter : https://twitter.com/FerretMartin1
+</details>
+
 
  ![MartinFerret GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret&show_icons=true&theme=radical)
