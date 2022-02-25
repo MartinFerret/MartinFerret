@@ -35,16 +35,10 @@
 
 ---
 
-<details close>
-<summary> 📚 My noble stats</summary>
-<br>
- ![MartinFerret GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret&show_icons=true&theme=radical)
-</details>
-
----
-
 ### 💬 Get in touch
 
 - Github : https://github.com/MartinFerret
 - LinkedIn : https://www.linkedin.com/in/martin-ferret/
 - Twitter : https://twitter.com/FerretMartin1
+
+ ![MartinFerret GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret&show_icons=true&theme=radical)
