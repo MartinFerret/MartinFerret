@@ -43,5 +43,6 @@
 * Twitter : https://twitter.com/FerretMartin1
 </details>
 
+---
 
  ![MartinFerret GitHub stats](https://github-readme-stats.vercel.app/api?username=martinferret&show_icons=true&theme=radical)
