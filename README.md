@@ -35,14 +35,12 @@
 
 ---
 
-### 💬 Get in touch
-
 <details close>
 <summary>💬 Get in touch</summary>
-<br>
-- Github : https://github.com/MartinFerret
-- LinkedIn : https://www.linkedin.com/in/martin-ferret/
-- Twitter : https://twitter.com/FerretMartin1
+ 
+* Github : https://github.com/MartinFerret
+* LinkedIn : https://www.linkedin.com/in/martin-ferret/
+* Twitter : https://twitter.com/FerretMartin1
 </details>
 
 
