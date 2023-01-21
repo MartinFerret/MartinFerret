@@ -3,7 +3,7 @@
 
 #### I'm Martin Ferret, here are more about me :
 
-* ⚓ I'm from France
+* ⚓ I'm from Spain
 * 🧙 I'm working on an awesome secret project 🤫
 * 💻 I'd like to contribute to open source projects soon
 * 🖋️ Feel free to ask me about things related to what I master ⬇️
