@@ -3,11 +3,11 @@
 
 #### I'm Martin Ferret, here are more about me :
 
-* ⚓ I'm from Spain
+* ⚓ I'm from France and currently living in Spain
 * 🧙 I'm working on an awesome secret project 🤫
 * 💻 I'd like to contribute to open source projects soon
 * 🖋️ Feel free to ask me about things related to what I master ⬇️
-* ⚡ Fun Fact : We have never seen Batman & I in the same room, I don't say that it's me, but... 🦸‍♂️
+* ⚡ Fun Fact : We have never seen Batman & I in the same room... 🦸‍♂️
 
 ---
 
@@ -22,6 +22,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" height="26"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/></a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26" height="26"/> </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
+          
 </details>
 
 ---
