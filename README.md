@@ -5,34 +5,42 @@
 
 * ⚓ I'm from France and currently living in Spain
 * 🧙 I'm working on an awesome secret project 🤫
-* 💻 I'd like to contribute to open source projects soon
+* 💻 Contributing to Open Source projects
 * 🖋️ Feel free to ask me about things related to what I master ⬇️
-* ⚡ Fun Fact : We have never seen Batman & I in the same room... 🦸‍♂️
 
 ---
 
 <details close>
 <summary>🔑 Tech I use</summary>
 <br>
-<p class="align-left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="26" height="26"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="26" height="26"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26" height="26"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26"/>
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26" height="26"/>
+          
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="26" height="26"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" height="26"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/></a>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26" height="26"/></a>        
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26" height="26"/> </p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="26" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="26" height="26"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="26" height="26" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="26" height="26"/>
+   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" width="26" height="26"/>
+                           
           
 </details>
 
 ---
 
 <details close>
-<summary>⚒️ Tech I'm working on</summary>
+<summary>⚒️ Currently developing skills on </summary>
 <br>
-<p class="align-left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26" height="26"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26" height="26"/> </p>
+- E2E Testing <br>
+- Pentesting <br>
+- Astro <br>
+- AWS
 </details>
 
 ---
